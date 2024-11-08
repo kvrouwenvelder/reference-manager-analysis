@@ -6,6 +6,9 @@
 *.txt
 *.png
 
+# python checkpoints
+.ipynb_checkpoints
+
 #OS generated files #
 .DS_Store
 .DS_Store?
