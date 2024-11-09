@@ -1,5 +1,7 @@
 # reference-manager-analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14058450.svg)](https://doi.org/10.5281/zenodo.14058450)
+
 This notebook was built to analyze the dataset published here: [DOI: 10.5281/zenodo.14058398](https://doi.org/10.5281/zenodo.14058398), folder 'coded-data'. The dataset consists of 18 .txt files, each corresponding to one reference manager input method, and analyzes dataset metadata and exported dataset citation completeness and correctness for 8 datasets from 8 repositories. 
 
 # Getting started
