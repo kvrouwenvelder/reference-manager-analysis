@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Reference Manager Data Citation Analysis Workbook
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kristina
+    family-names: Vrouwenvelder
+    email: kvrouwenvelder@agu.org
+    affiliation: American Geophysical Union
+    orcid: 'https://orcid.org/0000-0002-5862-2502'
+  - given-names: Natalie
+    family-names: Raia
+    affiliation: University of Arizona
+    orcid: 'https://orcid.org/0000-0003-4939-3282'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14058449
+  - type: swh
+    value: 'swh:1:dir:1ec5a7500bf0bbdd58142efc2d313918f9b9775b'
+repository-code: >-
+  https://github.com/kvrouwenvelder/reference-manager-analysis/
+abstract: >-
+  Analyze dataset metadata and citation by common reference
+  managers
+license: MIT
