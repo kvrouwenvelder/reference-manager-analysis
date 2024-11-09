@@ -19,9 +19,9 @@ authors:
     orcid: 'https://orcid.org/0000-0003-4939-3282'
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.14058449
+    value: doi.org/10.5281/zenodo.14058476
   - type: swh
-    value: 'swh:1:dir:1ec5a7500bf0bbdd58142efc2d313918f9b9775b'
+    value: 'swh:1:dir:2872324178c1cc7860c1aea4530db6c7e480b02e'
 repository-code: >-
   https://github.com/kvrouwenvelder/reference-manager-analysis/
 abstract: >-
