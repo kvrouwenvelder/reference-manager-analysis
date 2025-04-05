@@ -5,6 +5,7 @@
 # output files
 *.txt
 *.png
+*.svg
 
 # python checkpoints
 .ipynb_checkpoints
